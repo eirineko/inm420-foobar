@@ -1,1 +1,3 @@
-add content to newbranch via VSC
+added content to newbranch via VSC
+
+Going to commit/push using GitHub desktop
